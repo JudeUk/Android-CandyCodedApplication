@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:clickable="true"
     android:onClick="createMapIntent"
     tools:context="com.pluralsight.candycoded.InfoActivity">
 
@@ -42,10 +43,10 @@
         android:id="@+id/text_view_phone"
         android:layout_width="0dp"
         android:layout_height="30dp"
-        android:layout_marginLeft="0dp"
         android:layout_marginTop="16dp"
         android:layout_marginRight="8dp"
         android:gravity="center_vertical"
+        android:onClick="createPhoneIntent"
         android:text="(012)345-6789"
         android:textColor="?android:attr/actionMenuTextColor"
         android:textSize="18sp"
