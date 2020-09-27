@@ -4,8 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:clickable="true"
-    android:onClick="createMapIntent"
+    android:clickable="false"
     tools:context="com.pluralsight.candycoded.InfoActivity">
 
     <ImageView
@@ -45,6 +44,7 @@
         android:layout_height="30dp"
         android:layout_marginTop="16dp"
         android:layout_marginRight="8dp"
+        android:clickable="true"
         android:gravity="center_vertical"
         android:onClick="createPhoneIntent"
         android:text="(012)345-6789"
