@@ -4,8 +4,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="To verify my work Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,10 +39,6 @@
         <option value="$PROJECT_DIR$/.idea/codeStyles/Project.xml" />
       </list>
     </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="width" value="1280" />
-    <option name="height" value="800" />
   </component>
   <component name="ProjectId" id="1i0wxqqZWWugBWaSvZbEO0T6Jsf" />
   <component name="ProjectViewState">
@@ -169,7 +164,15 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="To verify my work Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="To verify my work Commit" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="206" y="52" key="CommitChangelistDialog2" timestamp="1601141677482">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="206" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1601141677482" />
     <state width="1398" height="243" key="GridCell.Tab.0.bottom" timestamp="1601108020265">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
